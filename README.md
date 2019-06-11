@@ -1,1 +1,1 @@
-# django_2fa
+# Two Factor Authentication with Django using django-otp
